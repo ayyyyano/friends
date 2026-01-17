@@ -376,6 +376,12 @@ url = "https://eofs791.github.io"
 avatar = "https://avatars.githubusercontent.com/u/91895588?s=140&r=g"
 description = "见崎的猫箱"
 
+[[blogs]]
+name = "Sotr's blog"
+url = "https://kira.moe"
+avatar = "https://avatars.githubusercontent.com/u/39127005?v=4&s=140"
+description = "Stray birds of summer come to my window to sing and fly away."
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
