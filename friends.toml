@@ -382,6 +382,12 @@ url = "https://kira.moe"
 avatar = "https://avatars.githubusercontent.com/u/39127005?v=4&s=140"
 description = "Stray birds of summer come to my window to sing and fly away."
 
+[[blogs]]
+name = "Cynosura"
+url = "https://cynosura.one"
+avatar = "https://avatars.githubusercontent.com/u/46548406?v=4&s=140"
+description = "Trying to light up the dark."
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
