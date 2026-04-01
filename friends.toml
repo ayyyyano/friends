@@ -388,6 +388,12 @@ url = "https://cynosura.one"
 avatar = "https://avatars.githubusercontent.com/u/46548406?v=4&s=140"
 description = "Trying to light up the dark."
 
+[[blogs]]
+name = "Nicolette86132"
+url = "https://nicoletteblog.vercel.app/"
+avatar = "https://avatars.githubusercontent.com/Ebotian?v=4&s=140"
+description = "白日恰自来"
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
