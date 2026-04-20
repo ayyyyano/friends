@@ -394,6 +394,12 @@ url = "https://nicoletteblog.vercel.app/"
 avatar = "https://avatars.githubusercontent.com/Ebotian"
 description = "白日恰自来"
 
+[[blogs]]
+name = "Aoi的菜谱小站"
+url = "https://www.aoi-recipes.site/"
+avatar = "https://secure.gravatar.com/avatar/66343ba343f045271824d17bcb7f666c"
+description = "探索赛博烹饪的艺术-日记,自娱自乐与碎碎念"
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
